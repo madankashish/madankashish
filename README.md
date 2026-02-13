@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kashish Madan
 
-<!--
-**madankashish/madankashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer based in Germany.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React / Next.js
+- Node.js / Express
+- MongoDB / PostgreSQL
+- TypeScript
+- REST APIs
+- Git & CI/CD
+- Docker
+- AWS / Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Building production-ready applications
+- Improving backend architecture
+- Preparing for Werkstudent / Internship roles
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/madan-kashish/
+Email: kashishmadan97@gmail.com
